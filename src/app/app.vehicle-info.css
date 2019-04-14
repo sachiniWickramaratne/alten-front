@@ -1,0 +1,33 @@
+/* Structure */
+table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 50%;
+  }
+  
+  .mat-column-status {
+    max-width: 100px;
+  }
+  
+  .mat-column-name {
+    max-width: 100px;
+  }
+
+  .connected {
+    height: 15px;
+    width: 15px;
+    background-color: #49c666;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .disconnected {
+    height: 15px;
+    width: 15px;
+    background-color: #bbbbbb;
+    border-radius: 50%;
+    display: inline-block;
+  }

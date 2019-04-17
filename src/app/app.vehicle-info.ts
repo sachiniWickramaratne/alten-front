@@ -15,7 +15,7 @@ export interface VehicleData {
   status: number;
 }
 
-const WEBSOCKET_URL = "ws://192.168.8.100:8080/socket";
+const WEBSOCKET_URL = "ws://3.17.165.168:8080/socket";
 const RCV_URL = "/vehicle/broadcaster";
 
 @Component({

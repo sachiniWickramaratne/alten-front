@@ -9,6 +9,6 @@ export class VehicleService {
   }
 
   getAll(): Observable<any> {
-    return this.http.get('//192.168.8.100:8081/getAllVehicles');
+    return this.http.get('//18.188.255.214:8081/getAllVehicles');
   }
 }

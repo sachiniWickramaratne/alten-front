@@ -12,4 +12,4 @@ before_script:
   - npm install -g @angular/cli
 
 script:
-- ng build --prod --base-href https://github.com/sachiniWickramaratne/alten-front.git
+- ng build --base-href https://github.com/sachiniWickramaratne/alten-front.git
